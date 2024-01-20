@@ -1,5 +1,5 @@
 
-# PKCS12Builer tool and library
+# PKCS12Builder tool and library
 
 A simple pkcs#12 builder that can be used as a tool and an embed library inside any java project (Java 8 or higher). You can create and read pkcs12 files as personal vault, saving your keys with strong secure passowords.
 
